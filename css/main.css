@@ -134,6 +134,11 @@ nav > a:hover {
 nav > a.active {
   color: #EE295B;
 }
+.topcorner{
+   position:absolute;
+   top:0;
+   right:0;
+  }
 .UE{
   margin-top: 1.2em;
 }
