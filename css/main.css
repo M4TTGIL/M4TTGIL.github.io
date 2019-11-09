@@ -131,7 +131,6 @@ nav>a.active {
   color: #EE295B;
 }
 
-
 .UE {
   margin-top: 1.2em;
 }
@@ -334,9 +333,19 @@ footer p {
     page-break-after: avoid;
   }
 }
+
 @media (pointer:coarse) {
   #topcorner {
     position: absolute;
     top: 0;
-    right: 0;}
+    right: 0;
+  }
+}
+
+@media (max-width: 540px) {
+  #topcorner {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
 }
