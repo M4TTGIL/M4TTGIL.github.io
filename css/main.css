@@ -334,3 +334,7 @@ footer p {
     page-break-after: avoid;
   }
 }
+@media (pointer:coarse) {
+  #topcorner {  top: 1em;
+    right: 1em;}
+}
