@@ -335,6 +335,6 @@ footer p {
   }
 }
 @media (pointer:coarse) {
-  #topcorner {  top: 1em;
-    right: 1em;}
+  #topcorner {  top: 0;
+    right: 0;}
 }
